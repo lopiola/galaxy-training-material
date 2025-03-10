@@ -5,7 +5,6 @@ title: "Configuring the Onedata integration (remotes, Object Store, BYOS, BYOD)"
 subtopic: data
 tags:
   - storage
-  - todo
 contributors:
   - lopiola
 
@@ -19,13 +18,13 @@ requirements:
      - onedata-getting-started
 
 questions:
-- TODO?
-- TODO?
+- FIXME?
+- FIXME?
 objectives:
-- TODO
+- FIXME
 key_points:
-- TODO.
-- TODO.
+- FIXME.
+- FIXME.
 ---
 
 You may find that your Galaxy files directory has run out of space, but you don't want to move all of the files from one filesystem to another. One solution to this problem is to use Galaxy's hierarchical object store to add an additional file space for Galaxy.
